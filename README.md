@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1f2d3d,100:1f6feb&height=220&section=header&text=XAH30&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AppSec%20Engineer%20%C2%B7%20Offensive%20%26%20Defensive%20Tooling&descAlignY=58&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1f2d3d,100:1f6feb&height=220&section=header&text=XAH30&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AppSec%20Engineer%20%C2%B7%20Offensive%20%C3%97%20Defensive%20Tooling&descAlignY=58&descSize=20"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=AppSec+Engineer+%F0%9F%9B%A1%EF%B8%8F;Breaking+apps+to+make+them+safer;Security+tooling+developer;Author+of+Graphite;.NET+%C2%B7+Python+%C2%B7+C%2B%2B+%C2%B7+Rust+%C2%B7+JS%2FTS" alt="Typing SVG"/></a>
 
